@@ -41,7 +41,7 @@ This project is a reaction-based training and testing system developed using two
 
 ## 📁 Files
 
-- `Master_Code.ino` – Controls main logic, random LED selection, scoring, and 7-segment display.
-- `Slave_Code.ino` – Handles the slave side button-LED logic and communicates with the master.
+- `Master.ino` – Controls main logic, random LED selection, scoring, and 7-segment display.
+- `Slave.ino` – Handles the slave side button-LED logic and communicates with the master.
 
 ---
