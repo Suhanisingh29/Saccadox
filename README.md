@@ -81,6 +81,7 @@ This system supports four different modes, each with a unique pattern of LED ill
   - 16 buttons in third circle
 - **Spacing:** 10 cm between each concentric circle
 
+## 📁 File Structure
 
 ```plaintext
 ├── Random_Without_Delay_Master.ino
@@ -92,3 +93,4 @@ This system supports four different modes, each with a unique pattern of LED ill
 ├── Circular_With_Delay_Master.ino
 ├── Circular_With_Delay_Slave.ino
 └── README.md
+
